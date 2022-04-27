@@ -4,22 +4,26 @@ Coronahack-Chest-XRay-Dataset URL:https://mega.nz/file/p88FzKTa#tkWkHMUxjDX7JSKx
 
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Training_history%20Xception.png)
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Confusion%20Matrix%20Xception.png)
+![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Xception%20results%20EX.png)
 
 
 
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Training_history%20VGG16.png)
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Confusion%20Matrix%20VGG16.png)
-
+![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/VGG16%20results%20EX.png)
 
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Training_history%20VGG19.png)
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Confusion%20Matrix%20VGG19.png)
+![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/VGG19%20results%20EX.png)
 
 
 
 
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Training_history%20InceptionResNet.png)
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Confusion%20Matrix%20InceptionResNet.png)
+![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/InceptionResNet%20results%20EX.png)
 
 
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Training_history%20EfficientNetB7.png)
 ![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/Confusion%20Matrix%20EfficientNetB7.png)
+![image](https://github.com/wade0125/CoronaHack-_Chest-X-Ray_classify/blob/main/img/EfficientNetB7%20results%20EX.png)
